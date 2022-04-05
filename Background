@@ -1,0 +1,3 @@
+from pil import image 
+image = image.open (black)
+image.show()
