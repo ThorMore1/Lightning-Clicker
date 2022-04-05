@@ -4,6 +4,8 @@ document.getElementById("div").textContent = "run";
 function buttonclick( ) {
     document.getElementById("div").textContent = "clicked";
     lightning++;
-    element:'beans' +1 ;
 }
- new Element= 'beans'
+if (lightning= 1){
+    add.document 
+    document='1'
+}
