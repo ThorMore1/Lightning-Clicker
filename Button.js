@@ -7,5 +7,5 @@ function buttonclick( ) {
 }
 if (lightning= 1){
     add.document 
-    document='1'
+    document.textContent='1'
 }
